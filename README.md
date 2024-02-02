@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1shaperformance
+- 👋🏾 Hi, I’m @1shaperformance
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
 - 📫 Instagram @1shaperformance
