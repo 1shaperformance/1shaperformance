@@ -52,3 +52,4 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
+$ git clone https://github.com/FirebaseExtended/codelab-feature-rollout-performance.git
